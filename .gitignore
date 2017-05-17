@@ -1,0 +1,8 @@
+*~*
+*#*
+*.out*
+*.RData*
+*.Rout*
+*.log*
+*.swp*
+*.Rhistory*
