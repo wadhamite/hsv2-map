@@ -306,7 +306,7 @@ var icon29 = L.marker([-25.8950,27.8014], {
        
 var icon30 = L.marker([-2.9936,35.3511], {       
   icon: L.AwesomeMarkers.icon({       
-    icon: 'ios-rose',       
+    icon: 'cube',       
     markerColor: 'blue',       
     iconColor: 'black'       
   })       
@@ -314,7 +314,7 @@ var icon30 = L.marker([-2.9936,35.3511], {
        
 var icon31 = L.marker([3.9478,36.1872], {       
   icon: L.AwesomeMarkers.icon({       
-    icon: 'ios-rose',       
+    icon: 'cube',       
     markerColor: 'blue',       
     iconColor: 'black'       
   })       
@@ -359,14 +359,6 @@ var icon36 = L.marker([3.5833,36.1167], {
     iconColor: 'black'       
   })       
 }).bindPopup("<i>Homo erectus</i>").openPopup();
-       
-var icon37 = L.marker([-26.0158,27.7344], {       
-  icon: L.AwesomeMarkers.icon({       
-    icon: 'cube',       
-    markerColor: 'blue',       
-    iconColor: 'black'       
-  })       
-}).bindPopup("<i>Homo gautengensis</i>").openPopup();
        
 var icon38 = L.marker([14.2417,40.3000], {       
   icon: L.AwesomeMarkers.icon({       
@@ -416,7 +408,7 @@ var icon43 = L.marker([-34.1081,24.3901], {
   })       
 }).bindPopup("<i>Homo sapiens</i>").openPopup();
 
-var markers = L.layerGroup([icon0, icon1, icon2, icon3, icon4, icon5, icon6, icon7, icon8, icon9, icon10, icon11, icon12, icon13, icon14, icon15, icon16, icon17, icon18, icon19, icon20, icon21, icon22, icon23, icon24, icon25, icon26, icon27, icon28, icon29, icon30, icon31, icon32, icon33, icon34, icon35, icon36, icon37, icon38, icon39, icon40, icon41, icon42, icon43]).addTo(map);
+var markers = L.layerGroup([icon0, icon1, icon2, icon3, icon4, icon5, icon6, icon7, icon8, icon9, icon10, icon11, icon12, icon13, icon14, icon15, icon16, icon17, icon18, icon19, icon20, icon21, icon22, icon23, icon24, icon25, icon26, icon27, icon28, icon29, icon30, icon31, icon32, icon33, icon34, icon35, icon36, icon38, icon39, icon40, icon41, icon42, icon43]).addTo(map);
 
 var markers0 = L.layerGroup([icon0]);
 
@@ -428,7 +420,7 @@ var markers3 = L.layerGroup([icon4, icon5, icon7, icon8, icon9, icon10, icon11, 
 
 var markers4 = L.layerGroup([icon6]);
 
-var markers5 = L.layerGroup([icon17, icon24, icon30, icon31, icon34, icon35, icon36, icon37, icon38, icon39, icon40, icon41, icon42, icon43]);
+var markers5 = L.layerGroup([icon17, icon24, icon30, icon31, icon34, icon35, icon36, icon38, icon39, icon40, icon41, icon42, icon43]);
 
 var markers6 = L.layerGroup([icon22, icon23, icon25, icon26, icon27, icon28, icon32, icon33]);
 
