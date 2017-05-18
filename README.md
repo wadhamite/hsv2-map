@@ -2,6 +2,7 @@
 > [https://wadhamite.github.io/hsv2-map](https://wadhamite.github.io/hsv2-map)
 
 ![CC-BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-brightgreen.svg)
+[![DOI](https://zenodo.org/badge/91559691.svg)](https://zenodo.org/badge/latestdoi/91559691)
 
 #  # Network analysis of the hominin origin of Herpes Simplex virus 2 from fossil data
 > Simon Underdown, Krishna Kumar, and Charlotte Houldcroft
